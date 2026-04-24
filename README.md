@@ -1,10 +1,10 @@
 # 🎓 Accredian Enterprise — Full Stack Web Application
 
 <p align="center">
-  <a href="https://abhira-io.netlify.app/">
+  <a href="https://accredian1.netlify.app/">
     <img src="https://img.shields.io/badge/Live-Demo-blue?style=for-the-badge&logo=vercel">
   </a>
-  <a href="https://github.com/abhishekshivahre08/Abhira.io">
+  <a href="https://github.com/abhishekshivahre08/accredian.git">
     <img src="https://img.shields.io/badge/GitHub-Repo-black?style=for-the-badge&logo=github">
   </a>
 </p>
@@ -140,28 +140,11 @@ npm run build
 npm start
 ```
 
----
 
-## 🌐 Deployment on Vercel
 
-### Option A — Via Vercel CLI
 
-```bash
-npm install -g vercel
-vercel
-```
 
-Follow the prompts. When asked about environment variables, add `MONGODB_URI`.
 
-### Option B — Via Vercel Dashboard
-
-1. Push your code to **GitHub**
-2. Go to [vercel.com](https://vercel.com) → New Project → Import your repo
-3. Under **Environment Variables**, add:
-   - `MONGODB_URI` → your MongoDB Atlas connection string
-4. Click **Deploy**
-
----
 
 ## 🔌 API Endpoints
 
