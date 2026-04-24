@@ -1,14 +1,21 @@
 # 🎓 Accredian Enterprise — Full Stack Web Application
 
+<p align="center">
+  <a href="https://abhira-io.netlify.app/">
+    <img src="https://img.shields.io/badge/Live-Demo-blue?style=for-the-badge&logo=vercel">
+  </a>
+  <a href="https://github.com/abhishekshivahre08/Abhira.io">
+    <img src="https://img.shields.io/badge/GitHub-Repo-black?style=for-the-badge&logo=github">
+  </a>
+</p>
+
+---
+
 A production-grade, full-stack clone of the [Accredian Enterprise](https://enterprise.accredian.com/) website built with **Next.js 14**, **TypeScript**, **Tailwind CSS**, and **MongoDB**.
 
 ---
 
-## 🖼️ Preview
 
-> Landing page with 10+ sections: Hero, Trusted By, Why Accredian, Stats (animated counters), Programs (filterable), How It Works, Partners, Testimonials (carousel), Lead Capture Form, FAQ, Footer.
-
----
 
 ## 🛠️ Tech Stack
 
@@ -286,13 +293,9 @@ curl http://localhost:3000/api/stats
 
 ---
 
-## 📄 License
-
-MIT License — feel free to use and modify for personal or commercial projects.
 
 ---
 
 ## 👤 Author
 
-Built as part of the Accredian Enterprise assignment.  
-AI tools used: **Claude (Anthropic)** — for code scaffolding, schema design, and structure suggestions. All reviewed, tested, and refined manually.
+
