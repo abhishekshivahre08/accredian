@@ -22,8 +22,11 @@ declare global {
   var mongooseCache: MongooseCache | undefined
 }
 
-// Global cache ko handle karne ka sahi tarika
-let cached = global.mongooseCache
+// Global cache ko handle karne ka sahi tarika 
+let cached: MongooseCache = global.mongooseCache || { conn: null, promise: null }
+global.mongooseCache = cached
+
+// let cached = global.mongooseCache
 
 if (!cached) {
   cached = global.mongooseCache = { conn: null, promise: null }
