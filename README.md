@@ -298,4 +298,7 @@ curl http://localhost:3000/api/stats
 
 ## 👤 Author
 
+**Abhishek Shivahre**
 
+* 🔗 LinkedIn: https://www.linkedin.com/in/abhishek-shivhare-42009b327/
+* 🌐 Portfolio: https://abhishekshivhare.netlify.app/
